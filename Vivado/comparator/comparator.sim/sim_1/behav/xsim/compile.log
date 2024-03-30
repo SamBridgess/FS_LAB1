@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/first_column_part.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module first_column_part
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_and
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_and3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_and4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_nor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_nor
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_or.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_or
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_or4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_or4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_xnor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_xnor
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sim_1/new/test_comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_comp

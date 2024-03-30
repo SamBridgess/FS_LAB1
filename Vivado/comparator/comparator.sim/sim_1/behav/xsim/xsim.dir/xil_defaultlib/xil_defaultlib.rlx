@@ -1,0 +1,15 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sim_1/new/test_comp.v,1711374826,verilog,,,,test_comp,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/comparator.v,1711373752,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/first_column_part.v,,Comparator,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/first_column_part.v,1711368911,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and.v,,first_column_part,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and.v,1711371015,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and3.v,,new_and,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and3.v,1711370810,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and4.v,,new_and3,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_and4.v,1711371017,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_nor.v,,new_and4,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_nor.v,1711373655,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_or.v,,new_nor,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_or.v,1711370925,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_or4.v,,new_or,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_or4.v,1711371180,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_xnor.v,,new_or4,,,,,,,,
+/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sources_1/new/new_xnor.v,1711370998,verilog,,/home/sam/FS/FS_LAB1_VIVADO/comparator/comparator.srcs/sim_1/new/test_comp.v,,new_xnor,,,,,,,,
